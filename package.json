@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "cities": "^2.0.0",
+    "dotenv": "^10.0.0",
+    "fs": "^0.0.1-security",
+    "querystring": "^0.2.1"
+  }
+}
