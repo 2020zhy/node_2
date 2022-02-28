@@ -34,7 +34,6 @@ const app = http.createServer(function (req, res) {
 
 });
 
-// ホストとポートを指定して監視
 app.listen(port, host);
 
 console.log(`Server listen: http://${host}:${port}`);
